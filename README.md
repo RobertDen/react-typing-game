@@ -1,0 +1,3 @@
+#   React typing game
+A simple typing game using React
+Work in progress...
