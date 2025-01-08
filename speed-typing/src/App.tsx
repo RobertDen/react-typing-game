@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <div className="text-4xl text-center text-blue-500">It works</div>
+    <div className="text-4xl text-center text-primary-500">It works</div>
   );
 }
 
